@@ -1,2 +1,2 @@
 # PrivacyPolicyFornothingapp
-https://gvibesproductionsrepo.github.io/PrivacyPolicyFornothingapp/
+https://gvibesproductionsrepo.github.io/PrivacyPolicyFornothingapp/privacy.html
